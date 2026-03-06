@@ -81,5 +81,5 @@ Este archivo se genera automáticamente en la carpeta del proyecto.
 ## Autor
 
 Alumno: Cristian Sebastian Hernandez Rios
+```
 Materia: Teoría de la Computación
-Institución: ESCOM - Instituto Politécnico Nacional
