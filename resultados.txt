@@ -1,0 +1,10 @@
+Resultados para: aba
+
+Prefijos:
+a, ab, aba, ε
+
+Sufijos:
+aba, ba, a, ε
+
+Subcadenas:
+ab, a, ba, aba, b, ε
